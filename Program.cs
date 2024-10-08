@@ -86,7 +86,20 @@ namespace The14Questions
 
             Console.WriteLine("you have " + Sib + " Siblings");
 
-            
+            Console.WriteLine("What are the 12 silly numbers on your plasic card");
+
+            string Money = Console.ReadLine();
+
+            Console.WriteLine("they are " + Money);
+
+            Console.WriteLine("And the 3 silly numbers on the back");
+
+            string Numbers = Console.ReadLine();
+
+            Console.WriteLine("They are " + Numbers);
+
+
+
             
 
             
