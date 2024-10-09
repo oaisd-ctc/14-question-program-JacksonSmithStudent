@@ -98,6 +98,20 @@ namespace The14Questions
 
             Console.WriteLine("They are " + Numbers);
 
+            Console.WriteLine("AND the silly lil date on the back!");
+
+            string Date = Console.ReadLine();
+
+            Console.WriteLine("The date is " + Date);
+
+            Console.WriteLine("and those cool numbers on your social security!");
+
+            string Social = Console.ReadLine();
+
+            Console.WriteLine("Your social security numbers are " + Social);
+
+            
+
 
 
             
