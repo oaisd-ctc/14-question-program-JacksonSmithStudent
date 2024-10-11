@@ -12,7 +12,7 @@ namespace The14Questions
 
             Console.WriteLine("Your name is " + Name);
 
-            Console.WriteLine("What is your age?");
+            Console.WriteLine("What is your age " + Name + "?");
 
             string Age = Console.ReadLine();
 
@@ -110,13 +110,29 @@ namespace The14Questions
 
             Console.WriteLine("Your social security numbers are " + Social);
 
+            Console.WriteLine("What is the amount of money on your debit card?");
+
+            string Debit = Console.ReadLine();
+
+            Console.WriteLine("Your Amount on your debit card is " + Debit);
+
+            Console.WriteLine("Where do you live " + Name + "?");
+
+            string Live = Console.ReadLine();
+
+            Console.WriteLine("You Live at " + Live);
+
+            Console.WriteLine("Do you have any pets? and how many pets?");
+
+            string Pets = Console.ReadLine();
+
+            Console.WriteLine("You have " + Pets + " Pets");
             
+            Console.WriteLine("Can you drive?(*can, cannont*)");
 
+            string Drive = Console.ReadLine();
 
-
-            
-
-            
+            Console.WriteLine("You indeed " + Drive + " Drive");
         }
     }
 }
