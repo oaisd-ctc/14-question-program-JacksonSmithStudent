@@ -133,6 +133,20 @@ namespace The14Questions
             string Drive = Console.ReadLine();
 
             Console.WriteLine("You indeed " + Drive + " Drive");
+
+            Console.WriteLine("Are you alone?");
+
+            string Alone = Console.ReadLine();
+
+            Console.WriteLine("You are " + Alone + " Alone");
+
+            Console.WriteLine("Can i pull up?");
+
+            string Pull = Console.ReadLine();
+
+            Console.WriteLine(Pull + " I can pull up");
+
+        
         }
     }
 }
