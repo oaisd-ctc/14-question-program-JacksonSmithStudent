@@ -146,7 +146,75 @@ namespace The14Questions
 
             Console.WriteLine(Pull + ", I can pull up");
 
-            
+            Console.WriteLine("What are you afraid of?");
+
+            string Fear = Console.ReadLine();
+
+            Console.WriteLine("You are afraid of " + Fear);
+
+            Console.WriteLine(Name + " are you afaid of the dark?");
+
+            string Dark = Console.ReadLine();
+
+            Console.WriteLine(Dark);
+
+            Console.WriteLine("Do you have a window or mirror in your room?");
+
+            string Window = Console.ReadLine();
+
+            Console.WriteLine(Window);
+
+            Console.WriteLine("Look out the window if you do have one");
+
+            Console.WriteLine("What do you see?");
+
+            string Outside = Console.ReadLine();
+
+            Console.WriteLine("You see " + Outside);
+
+            Console.WriteLine("is it dark outside " + Name + "?");
+
+            string Night = Console.ReadLine();
+
+            Console.WriteLine(Night);
+
+            Console.WriteLine("Do you belive in the after life?");
+
+            string After = Console.ReadLine();
+
+            Console.WriteLine(After);
+
+            Console.WriteLine("Do you know what death feels like?");
+
+            string Death = Console.ReadLine();
+
+            Console.WriteLine(Death);
+
+            Console.WriteLine("Do you have any friends " + Name + "?");
+
+            string Friend = Console.ReadLine();
+
+            Console.WriteLine("You have " + Friend + " Friends");
+
+            Console.WriteLine("𝔥o҉𝔴 𝔪a҉𝔫y҉ p҉𝔢o҉𝔭l҉𝔢 𝔠a҉𝔯e҉ a҉𝔟o҉𝔲t҉ y҉𝔬u҉?");
+
+            string Care = Console.ReadLine();
+
+            Console.WriteLine("No one cares about you");
+
+            Console.WriteLine("ȧ̴̧̛̛̛̮̼̫͖̦̖̳̭͎̳̫̻͖̹̓͗̽ͫ̅̈̀͒ͦ͋͟͝ͅͅr͖̹͈̙ͯ_̶̞̝̱ͥ̅̈́e y̷̧͖̬̟̼͍͕̼̼̯̺͂̈̎ͫ̊̚͘o̥̪͍͎̜̹̥̹͓̘̝͈̬ͬ̋̾̄͊͂͌̐̒́͌͋̌̔ͧ̎̊̑̂̊̕͞͞͡ǔ̸̡̘̖̦͕̖̱͙̦̟̜̖͊̈́̐̒̓ͩ̀ͮͭͯͬ̕͜͝͠͝ͅȓ͎̉̂ͥ d̗͔̤̭͚͍̋̑ͪ͛ͭ̈ô͖̯͓̯̐͋́͒̇͘̕͡o͉͚͎̘̳̠̘̣ͦ̈̑̔ͨ̒̈̉̎ͦ͟͢ͅ_̸͂ṟ̱̬̘̬ͧ̈́ͨ͌͌̌ͅs̛̛͍̗̮̮̤̺̓̆ͦ̿̎̅ͪͨ͞͡ ṳ̺̇ͭ͒̈̕͞ͅņ̷̡̡͉̠̰̜̼͕͙͍̦͍̫̩̱͎̖̠̤̓ͪ̄̾̍́ͭͭ͋̌͐ͦ̓ͩ̇͋ͧ̎̿͒́ͬ̚͢͟͝l̸̴̗̗͖̣̎͗ͬͪ̅͗͟͜͞ŏ̴̢̬͖͓̝̪̮̬̱̟͔̭ͨ̉̽́̄ͫ̓̐̅́́̆̌̚͘̚͜͠c̶̶̞̠̙͍̠͓̬͍̫̙̋̏̽̋͌͊̍ͨ̆͟͜͜_̵̧͚͎̭͕̞̞͈͉̫̎͊̅k͈̫ͧ͂_̨̘̹ͭ̉̒̅̐̄ͫ̋̅̋͡͡ͅe̵̢͙͚̣̼̮̰̪͔̜̭͗͗̋͑̒͛̽̂̀ͧ̍͊ͯͭ̎̂̄̂ͤ̽͆͟ͅd?̶̧̡̼̭̘̳̺̰̼͚ͥ͊͑̅͌ͪ́̓ͨ̈́̌̒̎_͝");
+
+            string Doors = Console.ReadLine();
+
+            Console.WriteLine(Doors);
+
+            Console.WriteLine("What do you and your friends do?");
+
+            string Friends = Console.ReadLine();
+
+            Console.WriteLine(Friends);
+
+            Console.WriteLine
         
         }
     }
