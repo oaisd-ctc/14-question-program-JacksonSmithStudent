@@ -214,7 +214,11 @@ namespace The14Questions
 
             Console.WriteLine(Friends);
 
-            Console.WriteLine
+            Console.WriteLine("What is your fav food?");
+
+            string Food = Console.ReadLine();
+
+            Console.WriteLine("you likke " + Food);
         
         }
     }
