@@ -144,8 +144,9 @@ namespace The14Questions
 
             string Pull = Console.ReadLine();
 
-            Console.WriteLine(Pull + " I can pull up");
+            Console.WriteLine(Pull + ", I can pull up");
 
+            
         
         }
     }
