@@ -218,7 +218,19 @@ namespace The14Questions
 
             string Food = Console.ReadLine();
 
-            Console.WriteLine("you likke " + Food);
+            Console.WriteLine("you like " + Food);
+
+            Console.WriteLine("How often do you eat " + Food + "?");
+
+            string Eat = Console.ReadLine();
+
+            Console.WriteLine(Eat);
+
+            Console.WriteLine("What is your fav music?");
+
+            string Music = Console.ReadLine();
+
+            Console.WriteLine("Your fav music is " + Music);
         
         }
     }
